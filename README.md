@@ -5,3 +5,6 @@ Included here are the neccesary files to get a sagemath kernel working on binder
 
 ## Example Notebooks
 Inlcuded in the GeneralExamples/ folders are variouse notebooks which the original creator of this repo made. These serve as tutorials for sage, partI, gap, etc.
+
+## Min/Max Failure Calculator
+Calculates the cardinality of the minnimum and maxmimum failure set for a given connected graph. See /MinMaxFailureSet/Demo.ipynb for examples of how this is implemented and a performance test.
